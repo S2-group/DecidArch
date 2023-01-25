@@ -17,7 +17,14 @@ In this emerging results paper, we propose a card-based game (called Ethics-Awar
 
 
 ## Replication material
-This repository contains the game, survey, results, and detailed documentation of the research, available here:
+This repository contains the game cards and templates, participant survey, survey results, and pilot sessions' results, available here:
 1. [DecidArch Game Material.zip](https://github.com/DecidArch/HICCS2018/blob/master/DecidArch%20Game%20Material.zip) - DecidArch game material and rules
 2. [DecidArch Student Survey.pdf](https://github.com/DecidArch/HICCS2018/blob/master/DecidArch%20Student%20Survey.pdf) - Survey adopted for the evaluation of the the learning objectives
 3. [Survey Results.csv](https://github.com/DecidArch/HICCS2018/blob/master/Survey%20Results.csv) - Raw data of the survey answers
+
+
+
+1. Ethics-Aware DecidArch Game Material.zip: Including game material and rules
+2. Ethics-Aware DecidArch-ParticipantSurvey.pdf: The survey used to gather responses from participants
+3. Ethics-Aware DecidArch-Survey results.csv: The participant responses to the survey statements
+4. Pilot Session Results.pdf: The results of the pilot sessions of the game
