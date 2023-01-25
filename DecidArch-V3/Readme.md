@@ -18,13 +18,7 @@ In this emerging results paper, we propose a card-based game (called Ethics-Awar
 
 ## Replication material
 This repository contains the game cards and templates, participant survey, survey results, and pilot sessions' results, available here:
-1. [DecidArch Game Material.zip](https://github.com/DecidArch/HICCS2018/blob/master/DecidArch%20Game%20Material.zip) - DecidArch game material and rules
-2. [DecidArch Student Survey.pdf](https://github.com/DecidArch/HICCS2018/blob/master/DecidArch%20Student%20Survey.pdf) - Survey adopted for the evaluation of the the learning objectives
-3. [Survey Results.csv](https://github.com/DecidArch/HICCS2018/blob/master/Survey%20Results.csv) - Raw data of the survey answers
-
-
-
-1. Ethics-Aware DecidArch Game Material.zip: Including game material and rules
-2. Ethics-Aware DecidArch-ParticipantSurvey.pdf: The survey used to gather responses from participants
-3. Ethics-Aware DecidArch-Survey results.csv: The participant responses to the survey statements
-4. Pilot Session Results.pdf: The results of the pilot sessions of the game
+1. [Ethics-Aware DecidArch Game Materials.zip](https://github.com/RaziehAlidoosti/DecidArch/blob/Ethics-Aware-DecidArch/DecidArch-V3/Ethics-Aware%20DecidArch%20Game%20Materials.zip) - Ethics-Aware DecidArch game material and rules
+2. [Ethics-Aware DecidArch Survey.pdf](https://github.com/DecidArch/HICCS2018/blob/master/DecidArch%20Student%20Survey.pdf) - Survey to gather responses from participants
+3. [Ethics-Aware DecidArch Survey Results.csv](https://github.com/DecidArch/HICCS2018/blob/master/Survey%20Results.csv) - Participant responses to the survey statements
+4. [Piolt Sessions Results.pdf](https://github.com/DecidArch/HICCS2018/blob/master/Survey%20Results.csv) - Results of the pilot sessions of the game
