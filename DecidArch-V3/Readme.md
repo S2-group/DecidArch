@@ -7,14 +7,13 @@ The study was designed, developed, and reported by the following investigators:
 * Eltjo Poort (CGI Company)
 * Maryam Razavian (Eindhoven University of Technology)
 
-For any information, interested researchers can contact us by writing an email to the [corresponding investigator](mailto:p.lago@vu.nl).
+For any information, interested researchers can contact us by writing an email to the [corresponding investigator](mailto:r.alidoosti@vu.nl).
 
 ## Abstract
-Teaching software architecture is a challenge because of the difficulty to expose students to actual meaningful design situations. Games can provide a useful illustration of the design decision-making process, and teach students the power of team interaction for making sound decisions.
+Software systems are increasingly being employed in people’s lives and society. They can improve, but also negatively affect the quality of life and interfere with human rights by, e.g., undermining the individuals’ and society’s values and causing ethical issues. To prevent such issues, software architects need to take ethical considerations into account at the early stages of design, e.g., when making architecture design decisions. Such considerations regard stakeholders, ethical values and their relations, ethical concerns, and ethical decisions. Addressing ethical considerations is especially difficult for software architects because of (i) the lack of training in ethics and philosophy, (ii) the existence of inherent ambiguity in ethical values, and (iii) the lack of methodological support in dealing with ethical and social implications of software systems, and eliciting and
+operationalizing ethical values.
 
-We introduce a game --DecidArch-- developed at our university to achieve three learning objectives: 1) create awareness about the rationale involved in design decision making, 2) enable appreciation of the reasoning behind candidate design decisions proposed by others, and 3) create awareness about interdependencies between design decisions. 
-
-The game has been played by 22 groups with a total of 83 players, all of them students of the software architecture course. We present some of the lessons learned, both from our observation and through participant survey. We conclude that the game well supports our three learning objectives, and we identify several improvement points for future game editions.
+In this emerging results paper, we propose a card-based game (called Ethics-Aware DecidArch), helping software architects reflect on ethical considerations. Initial results on the effect of our game, are collected in four game sessions. Results show that the game helped software architects (i) reflect on different solutions for resolving ethical concerns, (ii) make ethical decisions along with providing reasons behind such decisions, and (iii) reflect on the operationalization of ethical values and their trade-offs.
 
 
 ## Replication material
