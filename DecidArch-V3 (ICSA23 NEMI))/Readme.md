@@ -4,7 +4,7 @@
 The study was designed, developed, and reported by the following investigators:
 * Razieh Alidoosti (Vrije Universiteit Amsterdam & Gran Sasso Science Institute)
 * Patricia Lago (Vrije Universiteit Amsterdam)
-* Eltjo Poort (CGI Company)
+* Eltjo Poort (CGI Inc.)
 * Maryam Razavian (Eindhoven University of Technology)
 
 For any information, interested researchers can contact us by writing an email to the [corresponding investigator](mailto:r.alidoosti@vu.nl).
