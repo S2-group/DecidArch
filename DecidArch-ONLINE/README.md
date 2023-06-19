@@ -132,4 +132,4 @@ Finally, the card contents for the `cardId` are copied to the `tableTarget` cell
       }
 ```
 
-The complete code for the game engine can be found in the Code.gs file in this Github repository. 
+The complete code for the game engine can be found in the [Code.gs](Code.gs) file in this Github repository. 
